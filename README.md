@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Himanshu Tamoli</h1>
-<h3 align="center">A backend-frontend Developer from India</h3>
+<h3 align="center"> Backend & Frontend Developer from India</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshutamoli24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [ytvideo](https://github.com/HimanshuTamoli24/ytvideo)
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 How to reach me: **himanshutamoli2005@gmail.com**
-
-
+- 🔭 I’m currently working on [ytvideo](https://github.com/HimanshuTamoli24/ytvideo)  
+- 🌱 I’m currently learning **Next.js**  
+- 💬 Ask me about **React, Node.js, MongoDB**  
+- 📩 Contact me at: **himanshutamoli2005@gmail.com**  
 
 ---
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=himanshutamoli24&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![](https://github-readme-activity-graph.vercel.app/graph?username=himanshutamoli24&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/HimanshuTamoli24)
 
 ---
 
@@ -24,15 +21,12 @@
 |---|---|
 
 ---
-## 🔧 Languages and tools:
+
+## 🔧 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,appwrite,react,nodejs,express,nextjs,mongodb,mysql,nestjs,graphql,python," />
+    <img src="https://skillicons.dev/icons?i=javascript,cpp,appwrite,react,nodejs,express,nextjs,mongodb,python" />
 </div>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=npm,graphql,git,postman,figma,vscode" />
 </div>
-
-
-
-
-
