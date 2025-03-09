@@ -22,11 +22,41 @@
 
 ---
 
+
+
 ## 🔧 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,cpp,appwrite,react,nodejs,express,nextjs,mongodb,python" />
-</div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,graphql,git,postman,figma,vscode" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=flat&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
 </div>
+
+---
+
+## 📫 Connect With Me:
+- **GitHub**: [HimanshuTamoli24](https://github.com/HimanshuTamoli24)
+- **LinkedIn**: [Himanshu Tamoli](https://www.linkedin.com/in/himanshutamoli24/)
+## **Portfolio**: [Your Portfolio](#)
+
+---
+
+⭐ **Thanks for visiting! Feel free to explore my projects.** 🚀
+
