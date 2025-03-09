@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on [ytvideo](https://github.com/HimanshuTamoli24/ytvideo)
-- 🌱 I’m currently learning **Next.js & Nest.js**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, Node.js, MongoDB**
 - 📫 How to reach me: **himanshutamoli2005@gmail.com**
 
@@ -14,13 +14,8 @@
 
 ---
 
-## 🔧 Languages and tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,appwrite,react,nodejs,express,nextjs,mongodb,mysql,nestjs,graphql,python," />
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,graphql,git,postman,figma,vscode" />
-</div>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=himanshutamoli24&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -29,13 +24,15 @@
 |---|---|
 
 ---
-
-
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=himanshutamoli24&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 Top Languages:
+## 🔧 Languages and tools:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshutamoli24&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,appwrite,react,nodejs,express,nextjs,mongodb,mysql,nestjs,graphql,python," />
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=npm,graphql,git,postman,figma,vscode" />
+</div>
+
+
+
+
 
