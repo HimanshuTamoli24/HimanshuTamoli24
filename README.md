@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Connect With Me:
-- **GitHub**: [HimanshuTamoli24](https://github.com/HimanshuTamoli24)
+- **Portfolio**: [HimanshuTamoli](https://himanshutamoli.vercel.app/)
 - **LinkedIn**: [Himanshu Tamoli](https://www.linkedin.com/in/himanshutamoli24/)
 
 
