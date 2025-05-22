@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=himanshutamoli24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on [ytvideo](https://github.com/HimanshuTamoli24/ytvideo)  
-- 🌱 I’m currently learning **Next.js**  
+- 🔭 I’m currently working on [xclone](https://github.com/HimanshuTamoli24/x-clone)  
+- 🌱 I’m currently learning **Backend services**  
 - 💬 Ask me about **React, Node.js, MongoDB**  
 - 📩 Contact me at: **himanshutamoli2005@gmail.com**  
 
@@ -21,6 +21,19 @@
 |---|---|
 
 ---
+
+
+## 🏆 GitHub Trophies
+
+<p align="center " >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshutamoli24&theme=darkhub&row=1&column=8" />
+  </a>
+</p>
+
+
+---
+
 
 
 
