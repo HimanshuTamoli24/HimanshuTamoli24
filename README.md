@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Connect With Me:
-- **Portfolio**: [HimanshuTamoli](https://himanshutamoli.vercel.app/)
+- **Portfolio**: [Himanshu Tamoli](https://himanshutamoli.me/)
 - **LinkedIn**: [Himanshu Tamoli](https://www.linkedin.com/in/himanshutamoli24/)
 
 
